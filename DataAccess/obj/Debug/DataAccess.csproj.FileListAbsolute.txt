@@ -1,0 +1,13 @@
+S:\VisualStudio\ASP\HomeWork19.11.14\DataAccess\bin\Debug\DataAccess.dll.config
+S:\VisualStudio\ASP\HomeWork19.11.14\DataAccess\bin\Debug\DataAccess.dll
+S:\VisualStudio\ASP\HomeWork19.11.14\DataAccess\bin\Debug\DataAccess.pdb
+S:\VisualStudio\ASP\HomeWork19.11.14\DataAccess\bin\Debug\EntityFramework.dll
+S:\VisualStudio\ASP\HomeWork19.11.14\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+S:\VisualStudio\ASP\HomeWork19.11.14\DataAccess\bin\Debug\Models.dll
+S:\VisualStudio\ASP\HomeWork19.11.14\DataAccess\bin\Debug\Models.pdb
+S:\VisualStudio\ASP\HomeWork19.11.14\DataAccess\bin\Debug\EntityFramework.xml
+S:\VisualStudio\ASP\HomeWork19.11.14\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+S:\VisualStudio\ASP\HomeWork19.11.14\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+S:\VisualStudio\ASP\HomeWork19.11.14\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+S:\VisualStudio\ASP\HomeWork19.11.14\DataAccess\obj\Debug\DataAccess.dll
+S:\VisualStudio\ASP\HomeWork19.11.14\DataAccess\obj\Debug\DataAccess.pdb

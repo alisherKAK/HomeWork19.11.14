@@ -1,0 +1,8 @@
+S:\VisualStudio\ASP\HomeWork19.11.14\Services\bin\Debug\Services.dll
+S:\VisualStudio\ASP\HomeWork19.11.14\Services\bin\Debug\Services.pdb
+S:\VisualStudio\ASP\HomeWork19.11.14\Services\bin\Debug\BCrypt.Net.dll
+S:\VisualStudio\ASP\HomeWork19.11.14\Services\bin\Debug\BCrypt.Net.xml
+S:\VisualStudio\ASP\HomeWork19.11.14\Services\obj\Debug\Services.csprojAssemblyReference.cache
+S:\VisualStudio\ASP\HomeWork19.11.14\Services\obj\Debug\Services.csproj.CopyComplete
+S:\VisualStudio\ASP\HomeWork19.11.14\Services\obj\Debug\Services.dll
+S:\VisualStudio\ASP\HomeWork19.11.14\Services\obj\Debug\Services.pdb

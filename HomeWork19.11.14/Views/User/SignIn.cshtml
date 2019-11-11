@@ -1,0 +1,31 @@
+﻿@model Models.User
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Sign In</title>
+    <link href="~/css/signIn.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="login">
+        <div class="heading">
+            <h2>Sign in</h2>
+            <form action="/User/SignInPost" method="post">
+
+                <div class="input-group input-group-lg">
+                    <span class="input-group-addon"><i class="fa fa-user"></i></span>
+                    <input type="text" name="Login" value="@Model.Login" class="form-control" placeholder="Username or email">
+                </div>
+
+                <div class="input-group input-group-lg">
+                    <span class="input-group-addon"><i class="fa fa-lock"></i></span>
+                    <input type="password" name="Password" value="" class="form-control" placeholder="Password">
+                </div>
+
+                <button type="submit" class="float">SignIn</button>
+            </form>
+        </div>
+        <a href="/User/SignUp">Sign Up</a>
+    </div>
+</body>
+</html>
+© 2019 GitHub, Inc.
